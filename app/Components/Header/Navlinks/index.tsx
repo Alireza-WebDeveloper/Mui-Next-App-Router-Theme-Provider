@@ -18,7 +18,7 @@ const Navlinks = () => {
           home
         </Button>
       </Link>
-      <Link href={'/'} style={styleLink}>
+      <Link href={'/about'} style={styleLink}>
         <Button
           size="large"
           variant="text"
