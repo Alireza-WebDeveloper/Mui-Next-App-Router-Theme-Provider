@@ -1,5 +1,3 @@
-'use client';
-
 const Page = () => {
   return <>home page</>;
 };
